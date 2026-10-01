@@ -1,6 +1,6 @@
 ﻿# Controle de Estoque
 
-> **Link da Apresentação em Vídeo:** [Insira o link aqui]
+> https://youtu.be/DRHhCI9IbU0
 
 ---
 
